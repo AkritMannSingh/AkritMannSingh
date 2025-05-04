@@ -35,7 +35,7 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 
 - 📧 Email: [businessakrit1@gmail.com](mailto:businessakrit1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ams](https://www.linkedin.com/in/ams)
-- 🌐 Personal Website: [your-portfolio.com](https://akritms.com)
+- 🌐 Personal Website: [https://akritms.com](https://akritms.com)
 
 
 ⭐️ From [AkritMannSingh](https://github.com/AkritMannSingh)
