@@ -26,14 +26,6 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🔥 Featured Projects
-
-1. **[Project Name](https://github.com/AkritMannSingh/project-repo)**  
-   Short description of your project. Highlight key features and technologies used.
-
-2. **[Another Project](https://github.com/AkritMannSingh/another-repo)**  
-   Brief explanation of project purpose and your contributions.
-
 ## 📈 GitHub Stats
 
 ![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_title=true)
@@ -44,15 +36,8 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 
 - 📧 Email: [your.email@domain.com](mailto:your.email@domain.com)
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your-handle](https://twitter.com/your-handle)
 - 🌐 Personal Website: [your-portfolio.com](https://your-portfolio.com)
 
-## 🎯 Currently
-
-- 🔭 Working on [current project]
-- 🌱 Learning [new technology/skill]
-- 👯 Looking to collaborate on [type of projects]
-- 🤔 Exploring [new area of interest]
 
 ![Snake animation](https://github.com/AkritMannSingh/AkritMannSingh/blob/output/github-contribution-grid-snake.svg)
 
