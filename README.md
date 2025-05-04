@@ -1,6 +1,5 @@
 # Hi there, I'm Akrit Mann Singh 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AkritMannSingh.AkritMannSingh)](https://github.com/AkritMannSingh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
@@ -34,11 +33,9 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 
 ## 💬 Let's Connect
 
-- 📧 Email: [your.email@domain.com](mailto:your.email@domain.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Personal Website: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [businessakrit1@gmail.com](mailto:businessakrit1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ams](https://www.linkedin.com/in/ams)
+- 🌐 Personal Website: [your-portfolio.com](https://akritms.com)
 
-
-![Snake animation](https://github.com/AkritMannSingh/AkritMannSingh/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [AkritMannSingh](https://github.com/AkritMannSingh)
