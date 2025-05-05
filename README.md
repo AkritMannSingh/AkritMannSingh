@@ -1,7 +1,6 @@
 # Hi there, I'm Akrit Mann Singh 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
 
 **Software Developer** | **Open Source Contributor** | **Tech Enthusiast**
