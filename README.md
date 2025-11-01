@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm Akrit Mann Singh 
 
-### 📋 Content
-- **Overview**
 - **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 
 I'm a passionate developer who loves to build innovative solutions and contribute to meaningful projects. My expertise lies in full-stack development with a focus on creating scalable applications and engaging user experiences.
@@ -10,21 +8,22 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 
 ## 🛠️ **Technologies & Tools**
 
-### **Laboratories**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-</p>
+### **Programming**
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=2B2B2B)
+
+**Web**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white&labelColor=2B2B2B)
 
 ### **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&labelColor=333333)
 
 ---
 
