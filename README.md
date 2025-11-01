@@ -8,8 +8,9 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 
 ## 🛠️ **Technologies & Tools**
 
-### **Programming**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=00599C&labelColor=000000)
+### **Languages**
+
+![C](https://img.shields.io/badge/C-101010C?style=plastic&logo=c&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 
