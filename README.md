@@ -9,9 +9,9 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 ## 🛠️ **Technologies & Tools**
 
 ### **Programming**
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-3333C?style=plastic&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=2B2B2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=2B2B2B)
 
 **Web**
 
