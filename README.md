@@ -48,8 +48,7 @@
 ##  📊 **GitHub Stats**
 ‎
 ‎<div align="center">
-‎  
-‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=17)
+‎  ‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=17)
 ‎
 ‎! [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&hide=scss,less,shell,dockerfile,procfile,tex,swift&langs_count=6)
 ‎
