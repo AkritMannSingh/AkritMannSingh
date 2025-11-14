@@ -24,12 +24,7 @@
 ‎ ![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=plastic&logo=javascript&logoColor=black&labelColor=yellow)
 
 
-
-
-‎
  ### **Web**
-‎
-
 
 ‎![HTML5](https://img.shields.io/badge/HTML5-orangered?style=plastic&logo=html5&logoColor=white&labelColor=0D1117C)
 ‎![CSS3](https://img.shields.io/badge/CSS3-purple?style=plastic&logo=css3&logoColor=0D1117C)
