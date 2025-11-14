@@ -16,11 +16,8 @@
 ## ‎🛠️ **Technologies & Tools**
 ‎
 
-
-
-
-
 ### ‎**Languages**
+
 ‎
 ![C](https://img.shields.io/badge/C-2D2D2C?style=plastic&logo=c&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
@@ -30,21 +27,25 @@
 
 
 ‎
- **Web**
+ ### **Web**
 ‎
+
+
 ‎![HTML5](https://img.shields.io/badge/HTML5-orangered?style=plastic&logo=html5&logoColor=white&labelColor=0D1117C)
 ‎![CSS3](https://img.shields.io/badge/CSS3-purple?style=plastic&logo=css3&logoColor=0D1117C)
 ‎
 ‎
 
 
-**Frameworks & Libraries**
+### **Frameworks & Libraries**
+
+
 ‎![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white&labelColor=0D1117C)
 ‎
 
 
 
- **Tools & Platforms**
+### **Tools & Platforms**
 ‎
 ‎![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&labelColor=0D1117C)
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
