@@ -9,9 +9,16 @@
 
 
 
-‎🛠️ **Technologies & Tools**
+
+
+## ‎🛠️ **Technologies & Tools**
 ‎
-‎**Languages**
+
+
+
+
+
+### ‎**Languages**
 ‎
  ![C](https://img.shields.io/badge/C-2D2D2C?style=plastic&logo=c&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
