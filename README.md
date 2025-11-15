@@ -3,18 +3,10 @@
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
 ‎I'm a passionate developer who loves to build innovative solutions and contribute to meaningful projects. My expertise lies in full-stack development with a focus on creating scalable applications and engaging user experiences.
-‎
-‎
-
-
-
-
-
 
 
 ## ‎🛠️ **Technologies & Tools**
 ‎
-
 ### ‎**Languages**
 
 ‎
@@ -50,13 +42,12 @@
 ‎<div align="center">
 ‎  ‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=17)
 ‎
-‎! [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&hide=scss,less,shell,dockerfile,procfile,tex,swift&langs_count=6)
+‎![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&hide=scss,less,shell,dockerfile,procfile,tex,swift&langs_count=6)
 ‎
 ‎![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=11)
 ‎
 ‎</div>
 ‎
-‎---
 ‎
-‎## 📫 **Connect with me**
+‎##  📫 **Connect with me**
 ‎- 📧 Email: businessakrit1@gmail.com
