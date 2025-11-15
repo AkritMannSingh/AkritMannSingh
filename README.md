@@ -31,14 +31,13 @@
 ##  📊 **GitHub Stats**
 ‎<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=github_dark&hide_border=true&custom_title=Akrit's%20Stat)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&unhide=scss,less,shell,dockerfile,procfile,tex,rust,go,java,php,ruby,swift,kotlin&langs_count=6)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=github-dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true)
 
-‎
-‎</div>
+</div>
 ‎
 ‎
 ##  📫 **Connect with me**
