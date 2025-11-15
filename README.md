@@ -30,15 +30,17 @@
 
 ##  📊 **GitHub Stats**
 ‎<div align="center">
-‎‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=17)
-‎
-‎![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&hide=scss,less,shell,dockerfile,procfile,tex,swift&langs_count=6)
-‎
-‎![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=11)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=github_dark&hide_border=true&custom_title=Development%20Statistics)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&hide=scss,less,shell,dockerfile,procfile,tex,rust,go,java,php,ruby,swift,kotlin&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=github-dark&hide_border=true)
+
 ‎
 ‎</div>
 ‎
 ‎
-‎## 📫 **Connect with me**
+ 📫 **Connect with me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
