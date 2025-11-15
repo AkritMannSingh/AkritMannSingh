@@ -32,14 +32,14 @@
 
 ‎<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true&refresh=1)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=1)
 
-![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=1)
 
 </div>
-‎
- 📫**Connect with me**
+
+## ‎📫 **Connect with me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
