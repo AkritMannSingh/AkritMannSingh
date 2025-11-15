@@ -31,11 +31,11 @@
 
 ‎<div align="center">
 
-‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=5)
+‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=6)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=5)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=6)
 
-![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=5)
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=6)
 
 </div>
 
