@@ -29,6 +29,7 @@
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
 ##  📊 **GitHub Stats**
+
 ‎<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true)
@@ -39,7 +40,6 @@
 
 </div>
 ‎
-‎
-##  📫 **Connect with me**
+‎ ## 📫 **Connect with me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
