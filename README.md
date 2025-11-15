@@ -31,7 +31,7 @@
 
 ‎<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true&refresh=4)
+‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=4)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=4)
 
