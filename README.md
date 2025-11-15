@@ -40,6 +40,6 @@
 
 </div>
 ‎
-###📫 **Connect with me**
+`## 📫 **Connect with me**`
 
 ‎- 📧 Email: businessakrit1@gmail.com
