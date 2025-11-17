@@ -2,6 +2,7 @@
 ‎
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
+
 ‎I'm a passionate developer who loves to build innovative solutions and contribute to meaningful projects. My expertise lies in full-stack development with a focus on creating scalable applications and engaging user experiences.
 
 
