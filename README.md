@@ -32,7 +32,7 @@
 
 ‎<div align="center">
 
-‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=15)
+‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=16)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=15)
 
