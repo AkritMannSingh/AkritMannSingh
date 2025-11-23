@@ -25,6 +25,8 @@
 ### **Tools & Platforms**
 ‎
 ‎![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&labelColor=0D1117C)
+!
+[Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
