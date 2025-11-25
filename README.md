@@ -31,26 +31,20 @@
 
 ##  📊 **GitHub Stats**
 
-‎<div align="right">
-
-# 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true"/>
+ <img height="180em"src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark&hide_border=true"/>
+  <imgsrc="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AkritMannSingh&theme=react-dark&hide_border=true"/>
+  <imgsrc="https://activity-graph.herokuapp.com/graph?username=AkritMannSingh&theme=react-dark&hide_border=true"/>
 </div>
 
 ![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=20)
-
-</div>
 
 ## ‎📫 **Connect with me**
 
