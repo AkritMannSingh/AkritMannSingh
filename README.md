@@ -33,8 +33,6 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stat?username=AkritMannSingh&theme=radical)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?user=AkritMannSingh&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=1)
