@@ -37,7 +37,7 @@
 
 ‎![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=raducal&hide_border=true&hide=scss,less,shell,dockerfile,tex,swift&langs_count=6)
 
-![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&hide_border=true&refresh=1)
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=1)
 ‎
 ## ‎📫 **Connect with me**
 
