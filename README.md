@@ -33,11 +33,11 @@
 
 ‎<div align="center">
 
-‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=20)
+‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=21)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=18)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true&refresh=19)
 
-![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=19)
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=20)
 
 </div>
 
