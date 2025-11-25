@@ -31,9 +31,9 @@
 
 ##  📊 **GitHub Stats**
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/Akrit's Stat?username=AkritMannSingh&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stat?username=AkritMannSingh&theme=radical)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?user=AkritMannSingh&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
