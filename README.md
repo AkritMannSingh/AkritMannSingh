@@ -31,11 +31,11 @@
 
 ##  📊 **GitHub Stats**
 
-![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/Akrit's Stat?username=AkritMannSingh&theme=radical)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical)
 
-‎![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=raducal&hide_border=true&hide=scss,less,shell,dockerfile,tex,swift&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=1)
 ‎
