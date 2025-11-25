@@ -33,9 +33,9 @@
 
 ‎<div align="center">
 
-![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh &show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh &layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=20)
 
