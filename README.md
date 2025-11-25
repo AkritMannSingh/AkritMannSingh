@@ -35,8 +35,8 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=dracula)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=dracula)
 
-
-
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=1)
+‎
 ## ‎📫 **Connect with me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
