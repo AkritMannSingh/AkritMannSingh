@@ -31,11 +31,8 @@
 
 ##  📊 **GitHub Stats**
 
-‎<div align="center">
+‎<div align="right">
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&hide_title=true&hide_border=true&theme=dark)
-
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact)
 
 ![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=20)
 
