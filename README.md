@@ -34,7 +34,7 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical &hide_border=true&refresh=1)
+![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&refresh=1)
 ‎
 ## ‎📫 **Connect with me**
 
