@@ -31,20 +31,9 @@
 
 ##  📊 **GitHub Stats**
 
-<div align="center">
- <img height="180em"src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <imgsrc="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <imgsrc="https://activity-graph.herokuapp.com/graph?username=AkritMannSingh&theme=react-dark&hide_border=true"/>
-</div>
-
-![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=truerefresh=20)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=github_dark)
 
 ## ‎📫 **Connect with me**
 
