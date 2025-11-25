@@ -32,7 +32,10 @@
 ##  📊 **GitHub Stats**
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical)
+
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical)
 
 ‎![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true)
 ‎
