@@ -54,7 +54,7 @@
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" />
   </a>
 </p>
-‎
-##### ✉️Connect With Me
+
+‎##### Connect with me 
 
 ‎- 📧 Email: businessakrit1@gmail.com
