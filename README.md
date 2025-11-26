@@ -40,23 +40,18 @@
 ‎![Streak](https://streak-stats.demolab.com?user=AkritMannSingh&theme=dark&hide_border=true&refresh=1)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%">
 </p>
-‎
-## 💻 Developer Metrics
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=github_dark" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=github_dark&utcOffset=8" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=github_dark" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=github_dark" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=github_dark" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" />
   </a>
 </p>
 ‎
