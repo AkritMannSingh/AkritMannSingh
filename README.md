@@ -43,6 +43,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 ‎
+## 💻 Developer Metrics
+
+<p align="center">
+  <a href="https://github.com/AkritMannSingh">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=github_dark&utcOffset=8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AkritMannSingh">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=github_dark" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=github_dark" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=github_dark" />
+  </a>
+</p>
 ‎
 ## ‎📫 **Connect with me**
 
