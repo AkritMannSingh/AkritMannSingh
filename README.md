@@ -55,6 +55,6 @@
   </a>
 </p>
 
-‎##### Connect with me 
+**‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
