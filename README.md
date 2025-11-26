@@ -41,9 +41,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark" height="165">
+
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark" height="165">
+
+</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark" height="165">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=react-dark&hide_border=true&area=true" width="90%">
