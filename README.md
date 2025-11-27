@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="1000vh" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="1"/>
+    <img width="2000vh" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="1"/>
   </a>
 </p>
 
