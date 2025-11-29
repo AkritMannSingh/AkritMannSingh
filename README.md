@@ -39,7 +39,7 @@
 
 ‎![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical&hide_border=true&langs_count=10&refresh=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical&hide_border=true&langs_count=10&refresh=6)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="5">
