@@ -1,4 +1,8 @@
-# 👋 Hi there, I'm Akrit Mann Singh 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello,+Everyone!,+My,+self,+Akrit,+Mann,+Singh;&center=true&size=30">
+  </a>
+</h1>
 ‎
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
@@ -57,38 +61,6 @@
   </a>
 </p>
 
-
-
-
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/AkritMannSingh?style=social)
-
-</div>
-
-## 🚀 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia&hide_border=true" />
-  </a>
-</p>
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
