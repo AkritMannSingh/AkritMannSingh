@@ -61,6 +61,25 @@
   </a>
 </p>
 
+
+
+
+
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Coding Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=onedark&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=onedark&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=onedark&hide_border=true&layout=compact" height="165">
+
+</div>
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
