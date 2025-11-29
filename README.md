@@ -70,9 +70,12 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&column=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+
+
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
