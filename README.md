@@ -37,7 +37,7 @@
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=6)
 
-‎![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&hide_border=true&background=0d1117)
+‎![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical&hide_border=true&langs_count=10&refresh=2)
 
