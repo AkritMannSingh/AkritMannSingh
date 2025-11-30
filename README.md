@@ -75,13 +75,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&row=1&column=4&no-frame=true&refresh=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-
-
-
-
-# Add cache busting parameter
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&cache_seconds=86400)
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
