@@ -78,11 +78,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-dark)
+## 📈 Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=vue-dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=vue-dark&hide_border=true&bg_color=00000000&layout=compact">
+</p>
 
 </div>
 
