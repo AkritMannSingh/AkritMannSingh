@@ -87,10 +87,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=algolia&layout=compact&langs_count=8"/>
 </a>
 
-<a href="https://github.com/AkritMannSing">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=algolia&hide_border=false"/>
-</a>
-
 </div>
 
 ## **‎Connect With Me**
