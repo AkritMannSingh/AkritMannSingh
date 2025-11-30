@@ -1,9 +1,12 @@
+<div style="text-wrap: wrap;" 
+
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!+My+self+Akrit+Mann+Singh;&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!+My+self+Akrit+Mann+Singh;&size=20">
   </a>
 </h1>
 ‎
+</div>
 
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
