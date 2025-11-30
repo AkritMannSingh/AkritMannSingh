@@ -1,7 +1,10 @@
+# 👋I'm Akrit Mann Singh
+
+
 <div align="center">
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Everyone!+I'm+Akrit+Mann+Singh;&size=16">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Everyone!+I'm+Akrit+M.+S.;&size=18">
   </a>
 </h1>
 </div>
@@ -72,8 +75,7 @@
 
 </div>
 
-
-‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true)
+‎![Akrit's GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true)
 
 ## **‎Connect With Me**
 
