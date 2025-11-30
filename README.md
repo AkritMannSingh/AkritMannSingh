@@ -82,23 +82,15 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/AkritMannSingh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=gradient&hide_border=true&bg_color=white&layout=donut" height="165">
-  </a>
-</p>
+## 📊 Top Languages
 
+**Python** ![4%](https://progress-bar.dev/90/?title=Python&color=3776AB)  
+**JavaScript** ![0.53%](https://progress-bar.dev/75/?title=JavaScript&color=F7DF1E)  
+**HTML** ![47%](https://progress-bar.dev/60/?title=HTML&color=007396)  
+**CSS** ![45%](https://progress-bar.dev/45/?title=CSS&color=E34F26)  
+**C** ![4%](https://progress-bar.dev/30/?title=C&color=00599C) 
+![0.70%](https://progress-bar.dev/30/?title=JupyterNotebook&color=00599C)  
 
-
-
-
-```markdown
-<div align="center">
-
-## 🖥️ Developer Terminal
-
-```bash
-# GitHub Stats for @AkritMannSingh
 
 
 ## **‎Connect With Me**
