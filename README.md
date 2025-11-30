@@ -1,11 +1,9 @@
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px;">
-
+<div align="center">
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone+hdhfjfjg+tdhfhfgfg+fsghi!;&size=20&color=ffffff&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!;&size=60&width=400">
   </a>
 </h1>
-
 </div>
 
 
