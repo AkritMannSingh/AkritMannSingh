@@ -1,10 +1,10 @@
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!+My+self+Akrit+Mann+Singh;&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!+My+self+Akrit+Mann+Singh;&size=15">
   </a>
 </h1>
 ‎
-‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
+**Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
 
 ‎I'm a passionate developer who loves to build innovative solutions and contribute to meaningful projects. My expertise lies in full-stack development with a focus on creating scalable applications and engaging user experiences.
