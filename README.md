@@ -76,13 +76,20 @@
 
 </div>
 
+
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&hide_border=true)
+## 🎯 Profile Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true)
+<a href="https://github.com/AkritMannSingh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=algolia&layout=compact&langs_count=8"/>
+</a>
 
-</div>
+<a href="https://github.com/AkritMannSing">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=algolia&hide_border=false"/>
+</a>
 
 </div>
 
