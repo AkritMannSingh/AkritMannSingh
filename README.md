@@ -76,15 +76,6 @@
 
 </div>
 
-
-
-
-
-## 🔧 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=donut-vertical&theme=github_dark&hide_border=true&hide=scss%20notebook&langs_count=10&card_width=400)
-
-
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
