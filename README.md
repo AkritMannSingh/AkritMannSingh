@@ -78,16 +78,20 @@
 
 
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/AkritMannSingh">
+    <img src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=gradient&hide_border=true&bg_color=00000000" height="165">
+  </a>
+  <a href="https://github.com/AkritMannSingh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=gradient&hide_border=true&background=00000000" height="165">
+  </a>
+</p>
 
-## 🎯 Profile Stats
-
-<a href="https://github.com/AkritMannSingh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=algolia&layout=compact&langs_count=8"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/AkritMannSingh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=gradient&hide_border=true&bg_color=00000000&layout=donut" height="165">
+  </a>
+</p>
 
 ## **‎Connect With Me**
 
