@@ -1,4 +1,4 @@
-<div style="text-wrap:wrap;" 
+<div style="text-wrap:wrap;">
 
 <h1>
   <a href="https://git.io/typing-svg">
