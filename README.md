@@ -1,8 +1,8 @@
-<div style="text-wrap: wrap;" 
+<div style="text-wrap:wrap;" 
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!+My+self+Akrit+Mann+Singh;&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello+Everyone!+My+self+Akrit+Mann+Singh;&size=30">
   </a>
 </h1>
 ‎
