@@ -80,12 +80,9 @@
 
 
 
+## 🔧 Top Languages
 
-
-## 📊 Top Languages
-
-**Python** 
-![4%](https://progress-bar.dev/90/?title=Python&color=3776AB)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=donut-vertical&theme=github_dark&hide_border=true&hide=scss%20notebook&langs_count=10&card_width=400)
 
 
 ## **‎Connect With Me**
