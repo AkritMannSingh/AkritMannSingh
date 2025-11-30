@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=gradient&hide_border=true&bg_color=00000000&layout=donut" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=gradient&hide_border=true&bg_color=white&layout=donut" height="165">
   </a>
 </p>
 
