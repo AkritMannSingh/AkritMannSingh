@@ -76,6 +76,12 @@
 
 </div>
 
+
+
+
+
+# Add cache busting parameter
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&cache_seconds=86400)
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
