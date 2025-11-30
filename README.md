@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000">
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=vue-dark&hide_border=true&bg_color=00000000&layout=compact">
 </p>
 
