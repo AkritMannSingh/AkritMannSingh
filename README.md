@@ -78,16 +78,16 @@
 
 <div align="center">
 
-## 📈 Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
 
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=vue-dark&hide_border=true">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
-<p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&theme=vue-dark&hide_border=true&bg_color=00000000&layout=compact">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true)
+
+<!-- Alternative Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+
+</div>
 
 </div>
 
