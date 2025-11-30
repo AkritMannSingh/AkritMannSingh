@@ -78,14 +78,9 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/AkritMannSingh">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=gradient&hide_border=true&bg_color=00000000" height="165">
-  </a>
-  <a href="https://github.com/AkritMannSingh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=gradient&hide_border=true&background=00000000" height="165">
-  </a>
-</p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
