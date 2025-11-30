@@ -78,14 +78,14 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&hide_border=true)
 
 <!-- Alternative Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=github-compact&hide_border=true)
 
 </div>
 
