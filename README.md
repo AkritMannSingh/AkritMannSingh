@@ -84,13 +84,8 @@
 
 ## 📊 Top Languages
 
-**Python** ![4%](https://progress-bar.dev/90/?title=Python&color=3776AB)  
-**JavaScript** ![0.53%](https://progress-bar.dev/75/?title=JavaScript&color=F7DF1E)  
-**HTML** ![47%](https://progress-bar.dev/60/?title=HTML&color=007396)  
-**CSS** ![45%](https://progress-bar.dev/45/?title=CSS&color=E34F26)  
-**C** ![4%](https://progress-bar.dev/30/?title=C&color=00599C) 
-![0.70%](https://progress-bar.dev/30/?title=JupyterNotebook&color=00599C)  
-
+**Python** 
+![4%](https://progress-bar.dev/90/?title=Python&color=3776AB)
 
 
 ## **‎Connect With Me**
