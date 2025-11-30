@@ -76,6 +76,9 @@
 
 </div>
 
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
 ## **‎Connect With Me**
 
