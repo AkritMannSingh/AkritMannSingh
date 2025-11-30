@@ -73,6 +73,7 @@
 </div>
 
 
+‎![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true)
 
 ## **‎Connect With Me**
 
