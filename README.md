@@ -88,6 +88,19 @@
   </a>
 </p>
 
+
+
+
+
+```markdown
+<div align="center">
+
+## 🖥️ Developer Terminal
+
+```bash
+# GitHub Stats for @AkritMannSingh
+
+
 ## **‎Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
