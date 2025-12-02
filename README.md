@@ -80,7 +80,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/AkritMannSingh/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AkritMannSingh/AkritMannSingh/output/github-contribution-grid-snake.svg)
 
 ## 🌆 GitHub Skyline
 
