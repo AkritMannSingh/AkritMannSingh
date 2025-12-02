@@ -66,7 +66,8 @@
   </a>
 </p>
 
-<div>
+
+
 
 ## 🏆 GitHub Trophies
 
@@ -85,6 +86,7 @@
 
 ![GitHub Skyline](https://github.com/skyline-js/github-profile-skylines/blob/main/AkritMannSingh.svg)
 
+<div>
 
 ## **Connect With Me**
 
