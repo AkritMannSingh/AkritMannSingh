@@ -80,11 +80,11 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AkritMannSingh/Akrit Mann Singh/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AkritMannSingh/AkritMannSingh/output/github-contribution-grid-snake.svg)
 
 ## 🌆 GitHub Skyline
 
-![GitHub Skyline](https://github.com/skyline-js/github-profile-skylines/blob/main/Akrit Mann Singh.svg)
+![GitHub Skyline](https://github.com/skyline-js/github-profile-skylines/blob/main/AkritMannSingh.svg)
 
 
 ## **Connect With Me**
