@@ -41,30 +41,28 @@
 
 ##  📊 **GitHub Stats**
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=7)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=8)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=7)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=8)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=7)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=8)
 
-‎![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&hide_border=true&refresh=1)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark)
+‎![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&hide_border=true&refresh=2)
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="6">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="7">
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="6"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="7"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" refresh="6" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" refresh="7" />
   </a>
 </p>
 
@@ -75,6 +73,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&row=1&column=4&no-frame=true&refresh=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-## **‎Connect With Me**
+
+## *Connect With Me*
 
 ‎- 📧 Email: businessakrit1@gmail.com
