@@ -80,11 +80,9 @@
 ## 🔄 Live Stats
 
 <!-- Auto-refresh every 6 hours -->
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh
-&show_icons=true&cache_seconds=21600)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&cache_seconds=21600)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh
-&layout=compact&cache_seconds=21600)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&cache_seconds=21600)
 
 
 ## **Connect With Me**
