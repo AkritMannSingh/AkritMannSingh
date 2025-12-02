@@ -81,9 +81,9 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&hide_border=true)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&hide_border=true)
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&hide_border=true)
 
 
 ## **Connect With Me**
