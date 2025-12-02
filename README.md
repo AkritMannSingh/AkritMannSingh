@@ -77,12 +77,13 @@
 
 
 
-## 🔄 Live Stats
+## 🐍 Contribution Snake
 
-<!-- Auto-refresh every 6 hours -->
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&cache_seconds=21600)
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/AkritMannSingh/output/github-contribution-grid-snake.svg)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&cache_seconds=21600)
+## 🌆 GitHub Skyline
+
+![GitHub Skyline](https://github.com/skyline-js/github-profile-skylines/blob/main/AkritMannSingh.svg)
 
 
 ## **Connect With Me**
