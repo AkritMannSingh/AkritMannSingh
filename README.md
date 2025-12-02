@@ -76,6 +76,15 @@
 </div>
 
 
+
+## 🌆 GitHub Skyline
+
+![GitHub Skyline](https://raw.githubusercontent.com/YOUR_USERNAME/AkritMannSingh/main/assets/skyline.svg)
+
+<!-- OR -->
+
+![GitHub Skyline](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/refs/heads/main/skyline-2024.svg)
+
 ## **Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
