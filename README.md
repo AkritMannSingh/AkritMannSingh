@@ -41,6 +41,9 @@
 
 ##  📊 **GitHub Stats**
 ‎
+![My Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh)
+
+
 ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=13)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=13)
