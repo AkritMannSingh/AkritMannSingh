@@ -40,11 +40,10 @@
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
 ##  📊 **GitHub Stats**
-
-![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refrsh=1)
 ‎
-
 ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=13)
+
+![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=1)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=13)
 
@@ -76,7 +75,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&row=1&column=4&no-frame=true&refresh=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=github_dark&hide_border=true&refresh=1)
 
 </div>
 
