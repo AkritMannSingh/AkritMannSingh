@@ -78,9 +78,7 @@
 
 
 
-## 🌆 GitHub Skyline
 
-![My Skyline](https://skyline.github.com/AkritMannSingh/2024.svg)
 
 ## **Connect With Me**
 
