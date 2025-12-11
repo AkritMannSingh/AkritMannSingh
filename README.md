@@ -47,7 +47,7 @@
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=17)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh)](https://git.io/streak-stats&refresh=1)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="16">
