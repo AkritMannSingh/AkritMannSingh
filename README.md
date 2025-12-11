@@ -49,6 +49,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh)](https://git.io/streak-stats&refresh=1)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="16">
 </p>
