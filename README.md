@@ -41,29 +41,29 @@
 
 ##  📊 **GitHub Stats**
 ‎
-![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=27)
+![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=28)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=1)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=27)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=28)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&refresh=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&refresh=11)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&refresh=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&refresh=11)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="26">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="27">
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="26"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="27"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" refresh="26" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" refresh="27" />
   </a>
 </p>
 
