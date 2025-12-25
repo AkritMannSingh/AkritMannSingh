@@ -43,8 +43,7 @@
 ‎
 ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=27)
 
-![Top Languages](https://github-profile-summar
-y-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=27)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical)
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=27)
 
