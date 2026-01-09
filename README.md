@@ -47,9 +47,9 @@
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=42)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=radical&hide_border=true&refresh=1)](https://git.io/strea-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=radical&hide_border=true)](https://git.io/strea-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical&hide_border=true& refresh=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
