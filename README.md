@@ -53,6 +53,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AkritMannSingh/repo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AkritMannSingh/repo)
+![Lines of code](https://img.shields.io/tokei/lines/github/AkritMannSingh/repo)
+![GitHub License](https://img.shields.io/github/license/AkritMannSingh/repo)
+
 
 ## **Connect With Me**
 
