@@ -1,4 +1,4 @@
-# 👋Hi there, I'm Akrit Mann Singh
+ # 👋Hi there, I'm Akrit Mann Singh
 
 
 <div align="center">
@@ -41,26 +41,26 @@
 
 ##  📊 **GitHub Stats**
 ‎
- ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=44)
+ ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=radical&refresh=45)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=17)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=18)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=44)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkritMannSingh&theme=radical&refresh=45)
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="43">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="43"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8" refresh="44"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AkritMannSingh">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" refresh="42" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkritMannSingh&theme=radical" refresh="43" />
   </a>
 </p>
 
