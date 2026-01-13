@@ -44,10 +44,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&color=blue)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkritMannSingh&countColor=%23263759)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkritMannSingh&count_bg=%2379C83D&title_bg=%23555555&title=Visitors)
 
+<!-- This uses a service that validates viewer is not the profile owner -->
+![Unique Visitors](https://profile-counter.glitch.me/AkritMannSingh/count.svg)
 
 ## **Connect With Me**
 
