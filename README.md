@@ -39,15 +39,32 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-##  📊 **GitHub Stats**
-‎
- ![GitHub followers](https://img.shields.io/github/followers/AkritMannSingh?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/AkritMannSingh?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&color=blue)
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 📈 Monthly Development Breakdown
+```mermaid
+graph TD;
+    A[Total Code] --> B{Language Breakdown};
+    B --> C[JavaScript];
+    B --> D[Python];
+    B --> E[TypeScript];
+    B --> F[Other];
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
