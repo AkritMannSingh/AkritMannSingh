@@ -44,9 +44,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-
-<!-- This uses a service that validates viewer is not the profile owner -->
-![UniqueVisitors](https://profile-counter.glitch.me/AkritMannSingh/count.svg)
+# Check current count (excluding your views)
+curl"https://komarev.com/ghpvc/?username=AkritMannSingh&json=true"
 
 ## **Connect With Me**
 
