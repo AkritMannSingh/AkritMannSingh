@@ -44,8 +44,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-# Check current count (excluding your views)
-curl"https://komarev.com/ghpvc/?username=AkritMannSingh&json=true"
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_title=true)
 
 ## **Connect With Me**
 
