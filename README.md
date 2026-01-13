@@ -39,43 +39,14 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=dark&langs_count=8" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 📈 Monthly Development Breakdown
-```mermaid
-graph TD;
-    A[Total Code] --> B{Language Breakdown};
-    B --> C[JavaScript];
-    B --> D[Python];
-    B --> E[TypeScript];
-    B --> F[Other];
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AkritMannSingh/repo)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AkritMannSingh/repo)
-![Lines of code](https://img.shields.io/tokei/lines/github/AkritMannSingh/repo)
-![GitHub License](https://img.shields.io/github/license/AkritMannSingh/repo)
+![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&color=blue)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkritMannSingh&countColor=%23263759)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkritMannSingh&count_bg=%2379C83D&title_bg=%23555555&title=Visitors)
 
 
 ## **Connect With Me**
