@@ -46,7 +46,7 @@
 
 
 <!-- This uses a service that validates viewer is not the profile owner -->
-![Unique Visitors](https://profile-counter.glitch.me/AkritMannSingh/count.svg)
+![UniqueVisitors](https://profile-counter.glitch.me/AkritMannSingh/count.svg)
 
 ## **Connect With Me**
 
