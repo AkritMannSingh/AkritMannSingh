@@ -45,7 +45,7 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_title=true)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_title=true&refresh=1)
 
 ## **Connect With Me**
 
