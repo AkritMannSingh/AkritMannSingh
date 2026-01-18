@@ -41,13 +41,15 @@
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&showicons=true&theme=radical&hidetitle=true&refresh=4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=great-gatsby)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=great-gatsby)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=great-gatsby&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=great-gatsby&no-frame=true&row=1&column=7)
 
 ## **Connect With Me**
 
