@@ -39,13 +39,15 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&showicons=true&theme=radical&hidetitle=true&refresh=4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&showicons=true&theme=radical&hidetitle=true&refresh=4)
 
 ## **Connect With Me**
 
