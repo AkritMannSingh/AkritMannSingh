@@ -41,16 +41,17 @@
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&showicons=true&theme=radical&hidetitle=true&refresh=4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=great-gatsby)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=great-gatsby)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=great-gatsby&hide_border=true&area=true" width="100%" refresh="44">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=great-gatsby&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh &bg_color=1b4332&title_color=95d5b2&text_color=d8f3dc&icon_color=52b788&border_color=40916c)
 ## **Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
