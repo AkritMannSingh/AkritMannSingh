@@ -39,17 +39,17 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=1)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&hide_border=true&area=true" width="100%" refresh="44">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="44">
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7&refresh=1)
 
 ## **Connect With Me**
 
