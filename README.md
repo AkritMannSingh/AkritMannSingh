@@ -51,7 +51,9 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh &bg_color=1b4332&title_color=95d5b2&text_color=d8f3dc&icon_color=52b788&border_color=40916c)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=1b4332&title_color=95d5b2&text_color=d8f3dc&icon_color=52b788&border_color=40916c)
+
+
 ## **Connect With Me**
 
 ‎- 📧 Email: businessakrit1@gmail.com
