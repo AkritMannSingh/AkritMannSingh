@@ -39,7 +39,7 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&showicons=true&theme=radical&hidetitle=true&refresh=4)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=radical)
 
@@ -50,9 +50,6 @@
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7)
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff)
 
 ## **Connect With Me**
 
