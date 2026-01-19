@@ -1,10 +1,10 @@
- # 👋🏻Hi there, I'm Akrit Mann Singh
+ # 👋Hi there, I'm Akrit Mann Singh
 
 
 <div align="center">
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋🏻+Hello+Everyone!+I'm+Akrit+M.+S.;&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Everyone!+I'm+Akrit+M.+S.;&size=20">
   </a>
 </h1>
 </div>
