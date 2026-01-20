@@ -46,7 +46,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=3)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="45">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="46">
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7&refresh=3)
