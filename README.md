@@ -109,13 +109,13 @@
 <!-- Backend -->
 <h3 align="center">⚙️ Backend & Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i= django&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i= django,&theme=dark&perline=9" />
 </p>
 
 <!-- DevOps & Tools -->
 <h3 align="center">🚀 DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,jupyter-notebook,scartch,figma&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,jupyter,scartch,figma&theme=dark&perline=9" />
 </p>
 
 </div>
