@@ -58,33 +58,10 @@
 
 <div align="center">
 
-<!-- Animated Badges -->
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/🚀_Available_for_Hire-00FF00?style=for-the-badge&logo=rocket&logoColor=white" alt="Available for Hire">
-  </a>
-  <a href="https://discord.com/users/AkritMannSingh">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
-<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkritMannSingh&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/> 
 
 </p>
-
-<!-- Social Links with Icons -->
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="https://medium.com/@your-profile">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://stackoverflow.com/users/AkritMannSingh">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
 </div>
 
@@ -106,16 +83,11 @@
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=9" />
 </p>
 
-<!-- Backend -->
-<h3 align="center">⚙️ Backend & Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i= django,&theme=dark&perline=9" />
-</p>
-
 <!-- DevOps & Tools -->
 <h3 align="center">🚀 DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,jupyter,scartch,figma&theme=dark&perline=9" />
+<img
+src="https://skillicons.dev/icons?i=git,jupyter,figma&theme=dark&perline=9" />
 </p>
 
 </div>
