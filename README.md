@@ -9,8 +9,6 @@
 </h1>
 </div>
 
-![Profile Banner](https://github.com/[AkritMannSingh]/[AkritMannSingh]/blob/main/assets/banner.gif?raw=true)
-
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
 
@@ -58,9 +56,6 @@
 
 
 
-
-
-<!-- HEADER WITH ANIMATION -->
 <div align="center">
 
 <!-- Animated Badges -->
@@ -75,9 +70,8 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkritMannSingh&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" /> 
-<img
-src="https://wakatime.com/badge/user/AkritMannSingh.svg" alt="Total time coded" />
+  <img src="https://komarev.com/ghpvc/?username=AkritMannSingh&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/> 
+
 </p>
 
 <!-- Social Links with Icons -->
@@ -98,19 +92,15 @@ src="https://wakatime.com/badge/user/AkritMannSingh.svg" alt="Total time coded" 
 
 ---
 
-
-<!-- 🎭 ANIMATED 3D SKILLS SECTION -->
 <div align="center">
 
 <h2 align="center">⚡ Tech Stack & Skills</h2>
 
-<!-- Languages -->
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,c&theme=dark&perline=8" />
 </p>
 
-<!-- Frontend -->
 <h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=9" />
@@ -125,7 +115,7 @@ src="https://wakatime.com/badge/user/AkritMannSingh.svg" alt="Total time coded" 
 <!-- DevOps & Tools -->
 <h3 align="center">🚀 DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,jupyter,figma,scratch&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,jupyter-notebook,scartch,figma&theme=dark&perline=9" />
 </p>
 
 </div>
