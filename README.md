@@ -44,7 +44,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=11)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkritMannSingh&theme=radical&refresh=11)
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&background=0d1117&border=00ffff&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888" />
+</a>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="55">
@@ -94,16 +98,6 @@ src="https://wakatime.com/badge/user/AkritMannSingh.svg" alt="Total time coded" 
 
 ---
 
-<!-- 🌈 COLORFUL STATS SECTION -->
-</a>
-<!-- Streak Stats with Gradient -->
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&background=0d1117&border=00ffff&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888" />
-</a>
-
-</div>
-
----
 
 <!-- 🎭 ANIMATED 3D SKILLS SECTION -->
 <div align="center">
