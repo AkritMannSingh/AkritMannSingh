@@ -9,6 +9,7 @@
 </h1>
 </div>
 
+![Profile Banner](https://github.com/[AkritMannSingh]/[AkritMannSingh]/blob/main/assets/banner.gif?raw=true)
 
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
@@ -49,7 +50,33 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="55">
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=onedark&no-frame=true&row=1&column=7&refresh=12)
+<div align="center">
+
+https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge&logo=hacktoberfest
+https://www.codewars.com/users/[AkritMannSingh]/badges/large
+https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/[AkritMannSingh]/project-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-1&theme=dark" />
+</a>
+<a href="https://github.com/[AkritMannSingh]/project-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-2&theme=dark" />
+</a>
+<a href="https://github.com/[AkritMannSingh]/project-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-3&theme=dark" />
+</a>
+
+</div>
+
+<div align="center">
+
+https://raw.githubusercontent.com/[AkritMannSingh]/[AkritMannSingh]/output/github-contribution-grid-snake.svg
+
+</div>
 
 ## **Connect With Me**
 
