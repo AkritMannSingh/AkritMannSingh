@@ -52,22 +52,21 @@
 
 <div align="center">
 
-https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge&logo=hacktoberfest
-https://www.codewars.com/users/[AkritMannSingh]/badges/large
+https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge&logo=hacktoberfesthttps://www.codewars.com/users/[AkritMannSingh]/badges/large
 https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/[AkritMannSingh]/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-1&theme=dark" />
+<ahref="https://github.com/[AkritMannSingh]/project-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-1&theme=dark"/>
 </a>
 <a href="https://github.com/[AkritMannSingh]/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-2&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-2&theme=dark"/>
 </a>
 <a href="https://github.com/[AkritMannSingh]/project-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-3&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[AkritMannSingh]&repo=project-3&theme=dark"/>
 </a>
 
 </div>
