@@ -48,6 +48,9 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&background=0d1117&border=00ffff&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888&refresh=2" />
 </a>
 
+
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="57">
 </p>
