@@ -36,6 +36,10 @@
 ‎![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&labelColor=0D1117C)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
+!
+[VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+!
+[Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=13)
