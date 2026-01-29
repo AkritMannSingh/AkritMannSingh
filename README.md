@@ -42,21 +42,21 @@
 [Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=13)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=14)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=14)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=15)
 
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&background=0d1117&border=00ffff&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888&refresh=3" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&background=0d1117&border=00ffff&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888&refresh=4" />
 </a>
 
 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="58">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="59">
 </p>
 
 <div align="center">
