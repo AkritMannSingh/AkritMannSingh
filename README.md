@@ -36,38 +36,40 @@
 ‎![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&labelColor=0D1117C)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
-
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=14)
+![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&refresh=15)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight)
 
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true)
 
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=AkritMannSingh&theme=radical&background=0d1117&border=00ffff&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888&refresh=4" />
-</a>
+div align="center">
 
+## 📊 GitHub Timeline Analysis
 
+### 🎯 Commit Distribution
+![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radical langs_count=6)
 
+### 📂 Repository Distribution  
+![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical)
+
+### 📅 GitHub Activity Timeline
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkritMannSingh&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Since%20{2024})
+
+### ⏰ Productive Time
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="59">
 </p>
 
-<div align="center">
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkritMannSingh&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/> 
 
 </p>
-  </a>
-</div>
 
 </div>
-
----
 
 
 ## **Connect With Me**
