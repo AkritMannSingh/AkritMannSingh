@@ -20,6 +20,8 @@
 
 
 ## ‎🛠️ **Technologies & Tools**
+
+<div align ="left">
 ### ‎**Languages**
 
 ![C](https://img.shields.io/badge/C-2D2D2C?style=plastic&logo=c&logoColor=white)
@@ -42,7 +44,7 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-
+</div>
 
 ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=2)
 ‎  
