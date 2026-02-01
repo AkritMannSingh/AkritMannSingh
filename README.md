@@ -38,35 +38,33 @@
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
 
-![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=1)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=1)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=1)
+![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=2)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh &theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=3)
 
 <div align="center">
 
 ## 📊 GitHub Timeline Analysis
 
 ### 🎯 Commit Distribution
-![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=1)
+![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=2)
 
-### 📂 Repository Distribution  
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=radical&refresh=1)
+### Respository Distribution 
+[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=2)
+
 
 ### 📅 GitHub Activity Timeline
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkritMannSingh&theme=react-dark&hide_border=true&refresh=1&area=true&custom_title=GitHub%20Activity%20Since%20{2024})
+![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="61">
 
 ### ⏰ Productive Time
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=1)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=2)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="60">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkritMannSingh&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/> 
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="61">
 </p>
 
 </div>
