@@ -8,6 +8,8 @@
   </a>
 </h1>
 
+<div align ="left">
+
 ![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=PROFILE%20VIEWS&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github)
 
 ![Followers](https://img.shields.io/badge/dynamic/json?color=black&label=FOLLOWERS&query=count&url=https://api.github.com/users/AkritMannSingh&style=plastic&logo=github)
@@ -20,8 +22,6 @@
 
 
 ## ‎🛠️ **Technologies & Tools**
-
-<div align ="left">
 
 ### ‎**Languages**
 
