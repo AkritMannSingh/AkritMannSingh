@@ -8,9 +8,9 @@
   </a>
 </h1>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=linear-gradient(45deg,%20%2300b4d8,%20%234cc9f0)&label=PROFILE%20VIEWS&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=PROFILE%20VIEWS&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github)
 
-![Followers](https://img.shields.io/badge/dynamic/json?color=linear-gradient(45deg,%20%237209b7,%20%239d4edd)&label=FOLLOWERS&query=count&url=https://api.github.com/users/AkritMannSingh&style=plastic&logo=github)
+![Followers](https://img.shields.io/badge/dynamic/json?color=black&label=FOLLOWERS&query=count&url=https://api.github.com/users/AkritMannSingh&style=plastic&logo=github)
 
 
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
