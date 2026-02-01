@@ -8,12 +8,9 @@
   </a>
 </h1>
 
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=linear-gradient(45deg,%20%2300b4d8,%20%234cc9f0)&label=PROFILE%20VIEWS&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github)
 
-  <img src="https://img.shields.io/badge/dynamic/json?color=4361ee&label=👁️%20Profile%20Views&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github&logoColor=white"/>
-
-  <img src="https://img.shields.io/github/followers/AkritMannSingh?color=7209b7&label=🤝%20Followers&style=plastic&logo=github&logoColor=white"/>
-
-  <img src="https://img.shields.io/github/stars/AkritMannSingh?color=f72585&label=⭐%20Stars&style=plastic&logo=github&logoColor=white"/>
+![Followers](https://img.shields.io/badge/dynamic/json?color=linear-gradient(45deg,%20%237209b7,%20%239d4edd)&label=FOLLOWERS&query=count&url=https://api.github.com/users/AkritMannSingh&style=plastic&logo=github)
 
 
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
