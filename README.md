@@ -8,13 +8,13 @@
   </a>
 </h1>
 
-<p align="center">
+
   <img src="https://img.shields.io/badge/dynamic/json?color=4361ee&label=👁️%20Profile%20Views&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github&logoColor=white"/>
 
   <img src="https://img.shields.io/github/followers/AkritMannSingh?color=7209b7&label=🤝%20Followers&style=plastic&logo=github&logoColor=white"/>
 
   <img src="https://img.shields.io/github/stars/AkritMannSingh?color=f72585&label=⭐%20Stars&style=plastic&logo=github&logoColor=white"/>
-</p>
+
 
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
