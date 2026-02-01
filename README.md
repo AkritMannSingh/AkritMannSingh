@@ -7,13 +7,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Everyone!+I'm+Akrit+M.+S.;&size=20">
   </a>
 </h1>
-![ProfileViews](https://komarev.com/ghpvc/?username=AkritMannSingh&color=blue&label=PROFILE+VIEWS)
 
-![GitHubFollowers](https://img.shields.io/github/followers/AkritMannSingh?color=green&label=Followers&style=for-the-badge)
-
-![GitHubStars](https://img.shields.io/github/stars/AkritMannSingh?color=yellow&label=Stars&style=for-the-badge)
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=4361ee&label=👁️%20Profile%20Views&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/AkritMannSingh?color=7209b7&label=🤝%20Followers&style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/AkritMannSingh?color=f72585&label=⭐%20Stars&style=plastic&logo=github&logoColor=white" />
+</p>
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
 
