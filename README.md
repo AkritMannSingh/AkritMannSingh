@@ -41,9 +41,9 @@
 
 
 ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=2)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh &theme=tokyonight)
-
+‎  
+‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=3)
 
 <div align="center">
