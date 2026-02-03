@@ -65,7 +65,7 @@
 
 
 ### 📅 GitHub Activity Timeline
-![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="63">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="63">
 
 ### ⏰ Productive Time
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=4)
