@@ -10,10 +10,6 @@
 
 <div align ="left">
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=PROFILE%20VIEWS&query=value&url=https://api.countapi.xyz/hit/AkritMannSingh.visitors/readme&style=plastic&logo=github&refresh=1)
-
-![Followers](https://img.shields.io/badge/dynamic/json?color=black&label=FOLLOWERS&query=count&url=https://api.github.com/users/AkritMannSingh&style=plastic&logo=github&refresh=1)
-
 
 ‎ **Software Developer** | **Open Source Coordinator** | **Tech Enthusiast**
 ‎
@@ -47,28 +43,28 @@
 
 </div>
 
-![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=4)
+![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=5)
 ‎  
-‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&refresh=2)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=5)
+‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&refresh=3)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=6)
 
 <div align="center">
 
 ## 📊 GitHub Timeline Analysis
 
 ### 🎯 Commit Distribution
-![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=4)
+![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=5)
 
 ### Respository Distribution 
-[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=4)
+[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=5)
 
 
 ### 📅 GitHub Activity Timeline
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="63">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="64">
 
 ### ⏰ Productive Time
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=4)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=5)
 
 
 
