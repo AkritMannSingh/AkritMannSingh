@@ -46,7 +46,7 @@
 ![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=9)
 ‎  
 ‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&refresh=7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&hide_progress=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=10)
 
 <div align="center">
@@ -66,7 +66,8 @@
 ### ⏰ Productive Time
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=9)
 
-
+### 🏆 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## **Connect With Me**
