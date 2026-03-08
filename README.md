@@ -43,33 +43,33 @@
 
 </div>
 
-![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=16)
+![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=17)
 ‎  
-‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=14)
+‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=15)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&refresh=1)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=17)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=18)
 
 <div align="center">
 
 ## 📊 GitHub Timeline Analysis
 
 ### 🎯 Commit Distribution
-![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=16)
+![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=17)
 
 ### Respository Distribution 
-[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=16)
+[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=17)
 
 
 ### 📅 GitHub Activity Timeline
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="75">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkritMannSingh&theme=radical&hide_border=true&area=true" width="100%" refresh="76">
 
 ### ⏰ Productive Time
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=16)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=17)
 
 ### 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy&refresh=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy&refresh=8)
 
 
 ## **Connect With Me**
