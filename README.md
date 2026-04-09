@@ -34,9 +34,11 @@
 
 ‎![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white&labelColor=0D1117C)
 
-![stdio.h](https://img.shields.io/badge/stdio.h-555555?style=plastic&logo=c&logoColor=white)
+!
+[stdio.h](https://img.shields.io/badge/stdio.h-555555?style=plastic&logo=c&logoColor=white)
 
-![math.h](https://img.shields.io/badge/math.h-555555?style=plastic&logo=c&logoColor=white)
+!
+[math.h](https://img.shields.io/badge/math.h-555555?style=plastic&logo=c&logoColor=white)
 
 ### **Tools & Platforms**
 ‎
