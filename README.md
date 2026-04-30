@@ -73,8 +73,7 @@
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=20)
 
 ### 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkritMannSingh&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy&refresh=11)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## **Connect With Me**
 
