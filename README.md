@@ -7,6 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Everyone!+I'm+Akrit+M.+S.;&size=20">
   </a>
 </h1>
+![GitHub Followers](https://img.shields.io/github/followers/AkritMannSingh?style=plastic&logo=github&label=Followers&color=181717)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&style=plastic&label=Profile+Views&color=blue)
 
 <div align ="left">
 
