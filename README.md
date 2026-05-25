@@ -8,8 +8,7 @@
   </a>
 </h1>
 
-!
-[Followers](https://img.shields.io/github/followers/AkritMannSingh?style=plastic&logo=github&label=Followers&color=181717)
+![Followers](https://img.shields.io/github/followers/AkritMannSingh?style=plastic&logo=github&label=Followers&color=181717)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&style=plastic&label=Profile+Views&color=blue)
 
