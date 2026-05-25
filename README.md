@@ -8,9 +8,13 @@
   </a>
 </h1>
 
+<div align="left">
+
 ![Followers](https://img.shields.io/github/followers/AkritMannSingh?style=plastic&logo=github&label=Followers&color=181717)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&style=plastic&label=Profile+Views&color=blue)
+
+</div>
 
 <div align ="left">
 
