@@ -82,4 +82,4 @@
 
 ## **Connect With Me**
 
-‎- 📧 Email: businessakrit1@gmail.com
+‎[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:businessakrit1@EMAIL.com)
