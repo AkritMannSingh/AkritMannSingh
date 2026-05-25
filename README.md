@@ -9,12 +9,9 @@
 </h1>
 
 <p align="center">
-
-![Followers](https://img.shields.io/github/followers/AkritMannSingh?style=plastic&logo=github&label=Followers&color=181717)
-&nbsp;&nbsp;&nbsp;
-
-![Profile Views](https://komarev.com/ghpvc/?username=AkritMannSingh&style=plastic&label=Profile+Views&color=blue)
-
+  <img src="https://img.shields.io/github/followers/AkritMannSingh?style=plastic&logo=github&label=Followers&color=181717">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AkritMannSingh&style=plastic&label=Profile+Views&color=blue">
 </p>
 
 <div align ="left">
