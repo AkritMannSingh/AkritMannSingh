@@ -63,6 +63,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=21)
 
+![Snake](https://github.com/AkritMannSingh/AkritMannSingh/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 ## 📊 GitHub Timeline Analysis
