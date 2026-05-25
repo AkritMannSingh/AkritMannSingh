@@ -44,7 +44,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ‎![Figma](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma&logoColor=white&labelColor=F24E1E)
 ‎![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=plastic&logo=scratch&logoColor=white&labelColor=4D97FF)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMi4wMDMgMi40ODdsLTkuOTk4IDUuNzU0djcuNTE4bDkuOTk4IDUuNzU0IDkuOTk4LTUuNzU0VjguMjQxbC05Ljk5OC01Ljc1NHoiLz48L3N2Zz4=&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
 ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=plastic&logo=anthropic&logoColor=white)
 
 </div>
