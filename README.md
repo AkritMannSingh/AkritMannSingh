@@ -59,12 +59,11 @@
 ‎  
 ‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=19)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&refresh=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&refresh=4)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=22)
 
-!
-[Snake](https://github.com/AkritMannSingh/AkritMannSingh/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/AkritMannSingh/AkritMannSingh/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
