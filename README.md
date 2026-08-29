@@ -55,13 +55,13 @@
 
 </div>
 
-![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=20)
+![Akrit's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkritMannSingh&theme=tokyonight&refresh=21)
 ‎  
-‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=18)
+‎![Akrit's Stats](https://github-readme-stats.vercel.app/api?username=AkritMannSingh&show_icons=true&theme=radical&hide_border=true&refresh=19)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&refresh=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&refresh=5)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=21)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkritMannSingh&theme=tokyonight&hide_border=true&refresh=22)
 
 !
 [Snake](https://github.com/AkritMannSingh/AkritMannSingh/blob/output/github-contribution-grid-snake.svg)
@@ -71,17 +71,17 @@
 ## 📊 GitHub Timeline Analysis
 
 ### 🎯 Commit Distribution
-![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=21)
+![Commit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkritMannSingh&layout=pie&theme=radicallangs_count=6&refresh=22)
 
 ### Respository Distribution 
-[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=21)
+[Top Languages by Respo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkritMannSingh&theme=tokyonight&refresh=22)
 
 
 ### ⏰ Productive Time
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=20)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkritMannSingh&theme=radical&utcOffset=8&refresh=21)
 
 ### 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy&refresh=1)
 
 ## **Connect With Me**
 
